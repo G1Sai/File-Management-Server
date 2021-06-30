@@ -33,3 +33,5 @@ Registers a user {username} with password <password>
 
 login {username} {password}  :
 Logs the user {username} if {password} is correct.
+
+logout : Logs the user out.
